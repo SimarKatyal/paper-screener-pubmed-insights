@@ -1,5 +1,5 @@
 import typer
-from paper_screener.core import run_pipeline
+from paper-screener.core import run_pipeline
 
 app = typer.Typer()
 
