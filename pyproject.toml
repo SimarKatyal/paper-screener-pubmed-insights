@@ -3,7 +3,7 @@ name = "paper-screener"
 version = "0.1.0"
 description = "Screen PubMed papers for non-academic authors from pharma/biotech companies."
 authors = ["Simar Katyal <simarkatyal17@gmail.com>"]
-packages = [{ include = "paper_screener" }]
+packages = [{ include = "paper-screener" }]
 
 [tool.poetry.dependencies]
 python = "^3.9"
