@@ -3,7 +3,7 @@ from paper_screener.core import run_pipeline
 
 app = typer.Typer()
 
-@app.command
+@app.command()
 def get_papers_list(
     query: str,
     retmax: int = 20,
