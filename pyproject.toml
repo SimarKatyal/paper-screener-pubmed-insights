@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "paper-screener"
+name = "paper_screener"
 version = "0.1.0"
 description = "Screen PubMed papers for non-academic authors from pharma/biotech companies."
 authors = ["Simar Katyal <simarkatyal17@gmail.com>"]
